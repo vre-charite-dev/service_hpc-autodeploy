@@ -18,7 +18,7 @@
 # permissions and limitations under the Licence.
 # 
 
-FROM python:3.7-buster
+FROM python:3.8
 
 WORKDIR /usr/src/app
 

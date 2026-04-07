@@ -1,2 +1,0 @@
---index-url https://${DOCKER_USERNAME}:${DOCKER_PASSWORD}@git.bihealth.org/api/v4/projects/737/packages/pypi/simple
-common==0.0.20
